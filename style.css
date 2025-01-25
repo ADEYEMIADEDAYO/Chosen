@@ -1,0 +1,34 @@
+    body {
+        background-image: url(ai.jpg); 
+        background-repeat: no-repeat;
+        background-size: cover; 
+    }
+
+    h1{
+        color: white;
+    text-align: center;
+    }
+    p{
+        color: white;
+        text-align: center;
+    }
+    input{
+        text-align: center;
+        width:  500px;
+        height: 50px;
+        border-radius: 10px;
+        background-color: dimgrey;
+    }
+    h3{
+        color: white;
+        text-align: center;
+    }
+
+    button{
+        background-color: coral;
+        width: 500px;
+        height: 40px;
+        border-radius: 10px;
+        cursor: pointer;
+        text-align: center;
+    }
